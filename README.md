@@ -1,2 +1,2 @@
-# Template-Script
-@@description@@
+# Set-EnvPath
+PowerShell Script helper for System.Environment.Path
